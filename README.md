@@ -18,14 +18,12 @@
 - 🤖 [AI Document Assistant](#) — FastAPI, Docker, REST APIs, structured logging
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/piyush-kumar-7b0b461b0/)
-📧 piyushkumar15081999@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/piyush-kumar-7b0b461b0/)
+- 📧 piyushkumar15081999@gmail.com
+- [Portfolio](https://piyush-portfolio-15081999.vercel.app/)
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=piyush15081999&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=piyush15081999&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
